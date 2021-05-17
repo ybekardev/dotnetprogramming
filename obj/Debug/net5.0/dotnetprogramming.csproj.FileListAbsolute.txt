@@ -1,0 +1,15 @@
+/Users/yasinbekar/Dev/dotnetprogramming/bin/Debug/net5.0/dotnetprogramming.deps.json
+/Users/yasinbekar/Dev/dotnetprogramming/bin/Debug/net5.0/dotnetprogramming.runtimeconfig.json
+/Users/yasinbekar/Dev/dotnetprogramming/bin/Debug/net5.0/dotnetprogramming.runtimeconfig.dev.json
+/Users/yasinbekar/Dev/dotnetprogramming/bin/Debug/net5.0/dotnetprogramming.dll
+/Users/yasinbekar/Dev/dotnetprogramming/bin/Debug/net5.0/ref/dotnetprogramming.dll
+/Users/yasinbekar/Dev/dotnetprogramming/bin/Debug/net5.0/dotnetprogramming.pdb
+/Users/yasinbekar/Dev/dotnetprogramming/obj/Debug/net5.0/dotnetprogramming.csprojAssemblyReference.cache
+/Users/yasinbekar/Dev/dotnetprogramming/obj/Debug/net5.0/dotnetprogramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasinbekar/Dev/dotnetprogramming/obj/Debug/net5.0/dotnetprogramming.AssemblyInfoInputs.cache
+/Users/yasinbekar/Dev/dotnetprogramming/obj/Debug/net5.0/dotnetprogramming.AssemblyInfo.cs
+/Users/yasinbekar/Dev/dotnetprogramming/obj/Debug/net5.0/dotnetprogramming.csproj.CoreCompileInputs.cache
+/Users/yasinbekar/Dev/dotnetprogramming/obj/Debug/net5.0/dotnetprogramming.dll
+/Users/yasinbekar/Dev/dotnetprogramming/obj/Debug/net5.0/ref/dotnetprogramming.dll
+/Users/yasinbekar/Dev/dotnetprogramming/obj/Debug/net5.0/dotnetprogramming.pdb
+/Users/yasinbekar/Dev/dotnetprogramming/obj/Debug/net5.0/dotnetprogramming.genruntimeconfig.cache
