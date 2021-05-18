@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using Student;
 
 namespace dotnetprogramming {
+
+    enum School {
+        MIT = 0, 
+        Standford = 1,
+        Harvard = 2
+    }
    public static class SchoolTracker{
        
        public static void schoolClassA(){

@@ -1,11 +1,12 @@
 using System;
 using System.Collections.Generic;
 using Student;
+using Employees;
 
 namespace dotnetprogramming {
-    class Survey{
+    class Survey : Employee {
         static void Main(string[] args) {
-            /*Console.WriteLine("What is your name?");
+           /* Console.WriteLine("What is your name?");
             var name = Console.ReadLine();
            
             Console.WriteLine("What is your age?");
@@ -27,9 +28,20 @@ namespace dotnetprogramming {
 
             SchoolTracker.schoolClassA();
             SchoolTracker.schoolClassB();
-    */        SchoolTracker.schoolClassC();
+            SchoolTracker.schoolClassC();
 
            loops();
+           */
+
+           HandleExceptions.Exceptions.tryCatch();
+
+        //Enums in C#
+           Console.WriteLine("The school I attend: {0}", dotnetprogramming.School.Harvard);
+           Console.WriteLine($"The school I attend: {dotnetprogramming.School.Harvard}" );
+       
+        Employees.Employee.pay();
+        
+
         }
 
         static string condition(string name){

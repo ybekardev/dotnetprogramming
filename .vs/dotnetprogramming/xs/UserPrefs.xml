@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{EFF20ADA-5263-4D7D-8717-49E71DC48AE1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="survey/Employee.cs">
+    <Files>
+      <File FileName="survey/Employee.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnetprogramming" expanded="True">
+            <Node name="dotnetprogramming" expanded="True">
+              <Node name="survey" expanded="True">
+                <Node name="Employee.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dotnetprogramming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
