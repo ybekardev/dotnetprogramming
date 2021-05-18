@@ -9,9 +9,7 @@
         <State name="__root__">
           <Node name="dotnetprogramming" expanded="True">
             <Node name="dotnetprogramming" expanded="True">
-              <Node name="survey" expanded="True">
-                <Node name="MainClass.cs" selected="True" />
-              </Node>
+              <Node name="survey" expanded="True" />
             </Node>
           </Node>
         </State>

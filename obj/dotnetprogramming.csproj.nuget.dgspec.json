@@ -14,7 +14,7 @@
         "outputPath": "/Users/yasinbekar/Dev/dotnetprogramming/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/yasinbekar/.config/NuGet/NuGet.Config"
+          "/Users/yasinbekar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

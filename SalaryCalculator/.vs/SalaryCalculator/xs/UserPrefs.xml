@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{18A78F16-F8F4-4B2F-ADE5-BC9E1109CD51}|Default">
+  <MonoDevelop.Ide.ItemProperties.SalaryCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SalaryCalculator/AnnualSalaryCalculator.cs">
+    <Files>
+      <File FileName="SalaryCalculator/UnitTest1.cs" Line="18" Column="1" />
+      <File FileName="SalaryCalculator/AnnualSalaryCalculator.cs" Line="14" Column="2" />
+      <File FileName="SalaryCalculator/CalculatorTest.cs" Line="10" Column="10" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SalaryCalculator" expanded="True">
+            <Node name="SalaryCalculator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SalaryCalculator" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
