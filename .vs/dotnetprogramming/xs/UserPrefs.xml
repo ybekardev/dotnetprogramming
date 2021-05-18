@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{EFF20ADA-5263-4D7D-8717-49E71DC48AE1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="survey/Employee.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="survey/EmptyClass.cs">
     <Files>
       <File FileName="survey/Employee.cs" Line="1" Column="1" />
+      <File FileName="survey/EmptyClass.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,7 +10,7 @@
           <Node name="dotnetprogramming" expanded="True">
             <Node name="dotnetprogramming" expanded="True">
               <Node name="survey" expanded="True">
-                <Node name="Employee.cs" selected="True" />
+                <Node name="EmptyClass.cs" selected="True" />
               </Node>
             </Node>
           </Node>
