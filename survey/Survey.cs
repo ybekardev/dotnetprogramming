@@ -37,7 +37,7 @@ namespace dotnetprogramming {
 
         //Enums in C#
            Console.WriteLine("The school I attend: {0}", dotnetprogramming.School.Harvard);
-           Console.WriteLine($"The school I attend: {dotnetprogramming.School.Harvard}" );
+           Console.WriteLine($"The school I attend: {dotnetprogramming.School.Harvard}");
        
         Employees.Employee.pay();
         

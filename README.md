@@ -1,1 +1,3 @@
 # dotnetprogramming
+Learning just another language...
+Welcome to my C# language practice repo.

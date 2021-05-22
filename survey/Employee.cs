@@ -7,4 +7,10 @@ namespace Employees {
             Console.WriteLine("Comes from Interface");
         }
     }
+
+    class Person : Employee {
+        void pay(){
+
+        }
+    }
 }
